@@ -16,8 +16,3 @@ This release, **v3.4**, brings **Android 16** (based on **LineageOS 23**) with d
 - 📱 **Device maintained for MT6781** platform (Helio G99 / Dimensity 900 series)
 
 ---
-
-### 🧰 Installation Guide
-1. **Unlock bootloader**
-   ```bash
-   fastboot flashing unlock
