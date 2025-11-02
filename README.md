@@ -2,7 +2,7 @@
 
 ### ⚙️ Overview
 **Infinixy X Project** is a custom Android ROM built with precision and performance in mind — optimized for the **Xiaomi Fleur (MT6781)** platform.  
-This release, **v3.4**, brings **Android 16** (based on **LineageOS 23**) with deep system-level optimizations, enhanced power management, and full **MIUI Camera** integration.
+This release, **v3.4**, brings **Android 16** with deep system-level optimizations, enhanced power management, and full **MIUI Camera** integration.
 
 ---
 
